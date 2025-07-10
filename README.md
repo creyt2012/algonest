@@ -74,12 +74,6 @@ algonest - blog công nghệ thông tin hữu ích, tổ ấm của Developer
 
 ---
 
-## 📬 Kết nối với chúng tôi
-
-- Website: [https://algonest.io.vn](https://algonest.io.vn)
-- Email: `contact@algonest.io.vn`
-- LinkedIn / GitHub / Facebook: *(tuỳ bạn thêm)*
-
 ---
 
 > Học lập trình không chỉ là viết ra dòng lệnh — đó là học cách **giải quyết vấn đề có hệ thống**.  
